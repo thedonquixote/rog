@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Rivers Rog"
+title:  "First"
 date:   2021-03-07 22:07:55 -0800
 categories: welcome
 ---
@@ -8,8 +8,9 @@ categories: welcome
 Welcome to my blog!
 
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Check out my [GitHub][git-hub] for ongoing projects. 
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+email for any questions - riverhy@protonmail.com
+
+[git-hub]: https://github.com/thedonquixote
+
