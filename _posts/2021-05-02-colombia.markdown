@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Complications, new friends and Violence in Colombia"
+image: /assets/images/image.png
 ---
 
  
@@ -16,4 +17,9 @@ They both excitedly told me that they would love to speak spanish or english wit
  
 The violence began around April 27th in Colombia. This violence came on behalf of a tax bill which was to be introduced by their predominantly right wing President Ivan Duque. There were widespread protests in many larger cities including Cali, Bogota and Medellin. Looting occurred and the police response was likened to that of terrorist maneuvors and resulted in a number of deaths. As of the third of April, the number of active riots have decreased significantly and the president has rescinded the bill with promises of lessening its impact on the middle class. 
 
+I believe it might be my dampened sense of friendship or reaching out from being overall - very solitary through the covid Pandemic, but the help I recieved from my AirBnb was on another level. Even after their initial outreach the continued to update me via news articles and explanations of the situation down there, and even a sweet message asking me not to judge their 
 
+
+{:refdef: style="text-align: center;"}
+![Image]({{ page.image | relative_url}})
+{: refdef}
