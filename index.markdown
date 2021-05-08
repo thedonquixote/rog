@@ -5,8 +5,9 @@
 layout: page
 ---
 
-B.S in computer science from Western Washington University and a curious hacker who enjoys the application of new technologies and building ICT tools to improve people's quality of life.
+[Resume](riverheuberger.com/assets/resume.pdf){: .btn}
 
-
-
+```javascript
+B.S in computer science from Western Washington University and a curious hacker who enjoys the application of new technologies and building ICT tools to improve others quality of life. 
+```
 
