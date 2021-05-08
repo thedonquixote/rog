@@ -22,7 +22,7 @@ title: River's Rog
 email: ghenighon@gmail.com
 description: Here I'll showcase projects 
   and ideas I've been thinking about doing.
-baseurl: "/rog" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://thedonquixote.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  thedonquixote
