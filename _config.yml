@@ -18,17 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: River's Rog
-email: ghenighon@gmail.com
-description: Here I'll showcase projects 
-  and ideas I've been thinking about doing.
-baseurl: "/" # the subpath of your site, e.g. /blog
+title: River Heuberger
+email: river@riverheuberger.com
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://thedonquixote.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  thedonquixote
 
 # Build settings
-theme: jekyll-theme-architect
+theme: minima
 plugins:
   - jekyll-feed
 
