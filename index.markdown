@@ -5,7 +5,7 @@
 layout: page
 ---
 
-[Resume](riverheuberger.com/assets/resume.pdf){: .btn}
+[Resume](/assets/resume.pdf){: .btn}
 
 
 B.S in computer science from Western Washington University and a curious hacker who enjoys the application of new technologies and building ICT tools to improve others quality of life. 
