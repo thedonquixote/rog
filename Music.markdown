@@ -8,5 +8,4 @@ title: Music
 
 | Favorite Violin tunes
 | --- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Bluegrass | Jeb's Tune |
