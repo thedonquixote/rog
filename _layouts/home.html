@@ -4,7 +4,9 @@ image: /assets/images/image.png
 ---
 
 <div class="home">
-
+  {:refdef: style="text-align: center;"}
+  ![Image]({{ page.image | relative_url}})
+  {: refdef}
   {{ content }}
 
   
@@ -14,9 +16,7 @@ image: /assets/images/image.png
   {% else %}
     {% assign posts = site.posts %}
   {% endif %}
-  {:refdef: style="text-align: center;"}
-  ![Image]({{ page.image | relative_url}})
-  {: refdef}
+  
 
   {%- if posts.size > 0 -%}
     {%- if page.list_title -%}
