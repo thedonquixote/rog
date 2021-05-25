@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The world misery index."
+title:  "World misery index"
 image: /assets/images/BMI.png
 image2: /assets/images/Untitled.png
 ---
@@ -13,7 +13,7 @@ What immediately caught was not only the fact that Venezuela was listed as numbe
 ![Image]({{ page.image | relative_url}})
 {: refdef}
 
-This was hard to believe, was venezuela truly 6.9 times as miserable as the next most miserable country - Zimbawbe? 
+This was hard to believe. Was venezuela truly 6.9 times as miserable as the next most miserable country - Zimbawbe? 
 
 To further cement the vast difference in your head, here is a chart by statistica. 
 
