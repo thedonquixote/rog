@@ -1,5 +1,6 @@
 ---
 layout: default
+image: /assets/images/image.png
 ---
 
 <div class="home">
@@ -13,8 +14,10 @@ layout: default
   {% else %}
     {% assign posts = site.posts %}
   {% endif %}
+  {:refdef: style="text-align: center;"}
+  ![Image]({{ page.image | relative_url}})
+  {: refdef}
 
-  <h2 class="post-list-heading">asdfsdafsadfasd</h2>
   {%- if posts.size > 0 -%}
     {%- if page.list_title -%}
       <h2 class="post-list-heading">{{ page.list_title }}</h2>
