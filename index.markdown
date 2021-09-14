@@ -5,9 +5,9 @@
 layout: page
 ---
 
+Contact: river@riverheuberger.com
 
 
-B.S in computer science from Western Washington University and a curious hacker who enjoys the application of new technologies and building ICT tools to improve others quality of life. 
 
 
 
