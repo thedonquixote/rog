@@ -31,4 +31,3 @@ title: Music
 | Jimmy Ward’s (jig) | https://thesession.org/tunes/793 |
 | The Bucks Of Oranmore (reel) | https://thesession.org/tunes/2 |
 | The Banshee (reel) | https://thesession.org/tunes/8 |
-| The Banshee (reel) | https://thesession.org/tunes/8 |
