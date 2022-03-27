@@ -31,3 +31,9 @@ title: Music
 | Jimmy Ward’s (jig) | https://thesession.org/tunes/793 |
 | The Bucks Of Oranmore (reel) | https://thesession.org/tunes/2 |
 | The Banshee (reel) | https://thesession.org/tunes/8 |
+| The Castle (jig) | https://thesession.org/tunes/273 |
+| The Congress (reel) | https://thesession.org/tunes/208 |
+| Bear Island (reel) | https://thesession.org/tunes/696 |
+| The Mill House (reel) | https://thesession.org/tunes/4484 |
+| The high drive (reel) | https://thesession.org/tunes/4428 |
+| Whiskey in the jar (reel) | https://thesession.org/tunes/17938 |
